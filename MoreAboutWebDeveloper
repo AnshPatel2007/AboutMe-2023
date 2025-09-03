@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>More about Web Developer</title>
+        <link href="style.css" type="text/css" rel="stylesheet">
+    </head>
+    <body class="Relay">
+        <div class="navbar">
+            <a href="AboutMe.html">About Me</a>
+            <a href="University.html">University</a>
+            <a href="WebDeveloper.html">Web Developer</a>
+            <a class="active" href="MoreAboutWebDeveloper.html">More about Web Developer</a>
+        </div>
+        <br>
+        
+        <div class="second">
+            <h2>Advantages of Web Developer</h2>
+            <ol>
+                <li><h3>Short Education Time</h3></li>
+                <p>
+                    Becoming a web developer may only take just a short training period 
+                    before starting your career. Some employers may ask for an associate's
+                    degree in web design or a related field before hiring you. You may even
+                    find online training schools that could provide you with a relevant
+                    degree you can earn while you work.
+                </p>
+                <li><h3>Salary</h3></li>
+                <p>
+                    Web developers earn an average salary of $67,225 per year. Your salary may also
+                    increase as you gain experience in your field. Individuals with six to nine years
+                    of experience may earn up to $78,436 per year, average, while those with over 10
+                    years of experience may earn $85,472 per year on average. You may earn more by 
+                    advancing to management positions as well.
+                </p>
+                <li><h3>High creative potential</h3></li>
+                <p>
+                    If you want a career in which you can express your creativity, you may enjoy
+                    being a web developer. Coding provides a unique creative platform as it allows 
+                    you to design different aspects of a website, such as creating visual site 
+                    layouts. Some web developers may also use web design programs to produce creative
+                    artwork, like logos and branding art, for use on their clients' websites.
+                </p>
+                <li><h3>Ability to work in various work environments</h3></li>
+                <p>
+                    Web developers may work in several environments based on their position. You may
+                    work in an office with other developers and designers when creating new web pages.
+                    You may also work from home and use shared programming platforms to work 
+                    remotely with your coworkers. These diverse options mean you could work wherever
+                    you feel most productive.
+                </p>
+                <li><h3>Career growth</h3></li>
+                <p>
+                    Web developers may find many growth opportunities within their field that could 
+                    expand their earnings and improve their development experience. You may also 
+                    transition to management positions in your company later in your career. Management 
+                    positions usually pay a higher salary and focus more on planning instead of hands-on
+                    programming tasks.
+                </p>
+                </ol>
+            </div>
+        
+        <div class="third">
+            <h2>Disadvantages of Web Developer</h2>
+            <ol>
+                <li><h3>Requires coding knowledge</h3></li>
+                <p>
+                    Web developing careers usually require learning the multiple programming codes used
+                    for creating websites. Some people may find this process time-consuming or difficult
+                    to master. Having this coding experience can allow you to transition to other
+                    tech-related careers if you decide you want to try something new, such as programming 
+                    video games or apps.
+                </p>
+                <li><h3>Includes long hours</h3></li>
+                <p>
+                    Web developers may spend eight to 10 hours every day programming, depending on their
+                    position. They may even work on the weekends polishing their coding. Some individuals
+                    may enjoy these long work hours and use downtime within them to expand their careers.
+                    This may include programming smartphone apps during breaks or reading books while
+                    waiting for programming tests to finish. People who like to program may also find these 
+                    long hours very enjoyable.
+                </p>
+                <li><h3>Involves a high-pressure environment</h3></li>
+                <p>
+                    Some web development careers involve high-pressure environments that may require tight
+                    deadlines and challenging delivery schedules. These high-pressure situations may 
+                    frustrate some developers, while others might thrive in it. People who enjoy fast-paced
+                    work may find web development enjoyable, as they may enjoy meeting tight deadlines and
+                    solving problems before they occur.
+                </p>
+                <li><h3>Requires teamwork</h3></li>
+                <p>
+                    Web developers may work with other developers and designers when producing new web 
+                    designs. Some people may prefer to work alone, as they would like to have full control
+                    over their project. Collaboration helps developers identify solutions they wouldn't 
+                    have thought of themselves and helps them learn things they otherwise might not have 
+                    if they were working alone.
+                </p>
+                <li><h3>Requires consistent changes to meet best practice guidelines</h3></li>
+                <p>
+                    Successful web developers may find themselves constantly updating old and new websites
+                    to meet recent best practices guidelines. While some web developers may prefer other
+                    duties, others may enjoy fine-tuning their creations and finding new ways to enhance 
+                    them. They may find this steady work enjoyable and find satisfaction in creating the
+                    best website they can. Others may find this work improves their skills as it provides
+                    more coding practice. 
+                </p>
+            </ol>
+        </div>
+        
+        <div class="fourth">
+            <h2>Web Developer Outlook</h2>
+            <p>
+                The Bureau of Labor Statistics projects 30.3% employment growth for web developers 
+                between 2021 and 2031. In that period, an estimated 28,900 jobs should open up. Web 
+                developers create and maintain websites and web applications, and they use web-facing 
+                technology to build software.
+            </p>
+        </div>
+    </body>
+</html>
